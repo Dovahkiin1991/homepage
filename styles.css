@@ -58,7 +58,6 @@ body {
 }
 
 @media (max-width: 576px) {
-
     .main-info,
     .contact_info_container {
         flex-direction: column;
